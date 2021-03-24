@@ -37,7 +37,7 @@
     <div class="account-pages container">
         <div class="row align-items-center mt-5">
 
-            <div class="col-md-6 col-lg-3 col-sm-12">
+            <div class="col-md-6 col-lg-4 col-sm-12">
                 <a href="{{route('admin.login')}}">
                     <div class="card bg-pattern">
                         <div class="card-title text-center mt-3">
@@ -49,7 +49,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-md-6 col-lg-3 col-sm-12">
+            <div class="col-md-6 col-lg-4 col-sm-12">
                 <a href="{{route('manager.login')}}">
                     <div class="card bg-pattern">
                         <div class="card-title text-center mt-3">
@@ -63,7 +63,7 @@
             </div>
 
 
-            <div class="col-md-6 col-lg-3 col-sm-12">
+            <div class="col-md-6 col-lg-4 col-sm-12">
                 <a href="{{route('user.login')}}">
                     <div class="card bg-pattern">
                         <div class="card-title text-center mt-3">
@@ -76,7 +76,7 @@
                 </a>
             </div>
 
-            <div class="col-md-6 col-lg-3 col-sm-12">
+            <!-- <div class="col-md-6 col-lg-3 col-sm-12">
                 <div class="card bg-pattern">
                     <div class="card-title text-center mt-3">
                         <h3 class="title">APKs</h3>
@@ -90,7 +90,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </div>
